@@ -1,0 +1,30 @@
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    .bg-teal {
+        background-color: teal !important;
+    }
+    
+    .text-teal {
+        color: teal;
+    }
+    
+    .carousel .carousel-indicators li {
+        width: 30px;
+        height: 5px;
+        border-radius: 0%;
+    }
+    
+    .carousel-caption {
+        bottom: 400px;
+    }
+    
+    .card {
+        border-radius: 15px;
+        box-shadow: 2px burlywood;
+    }
+    
+    .btn {
+        border-radius: 10px;
+    }
